@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aftgee"]
+	path = aftgee
+	url = https://github.com/stc04003/aftgee
+	shallow = true
+	registered = true
+[submodule "reReg"]
+	path = reReg
+	url = https://github.com/stc04003/rereg
+	shallow = true
+	registered = true
+[submodule "rocTree"]
+	path = rocTree
+	url = https://github.com/stc04003/roctree
+	shallow = true
+	registered = true
+[submodule "spef"]
+	path = spef
+	url = https://github.com/stc04003/spef
+	shallow = true
+	registered = true
+[submodule "tranSurv"]
+	path = tranSurv
+	url = https://github.com/stc04003/transurv
+	shallow = true
+	registered = true
