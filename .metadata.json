@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "reReg",
-    "oncran": true
+    "package": "reReg"
   },
   {
     "package": "rocTree",
