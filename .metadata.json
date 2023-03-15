@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "tranSurv",
+    "package": "spef",
     "oncran": true
   },
   {
-    "package": "spef",
+    "package": "tranSurv",
     "oncran": true
   }
 ]
