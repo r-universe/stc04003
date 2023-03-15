@@ -18,13 +18,13 @@
 	url = https://github.com/stc04003/roctree
 	shallow = true
 	registered = true
-[submodule "spef"]
-	path = spef
-	url = https://github.com/stc04003/spef
-	shallow = true
-	registered = true
 [submodule "tranSurv"]
 	path = tranSurv
 	url = https://github.com/stc04003/transurv
+	shallow = true
+	registered = true
+[submodule "spef"]
+	path = spef
+	url = https://github.com/stc04003/spef
 	shallow = true
 	registered = true
