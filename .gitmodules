@@ -14,6 +14,3 @@
 [submodule "spef"]
 	path = spef
 	url = https://github.com/stc04003/spef
-[submodule "tranSurv"]
-	path = tranSurv
-	url = https://github.com/stc04003/transurv
