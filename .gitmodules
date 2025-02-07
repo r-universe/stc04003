@@ -5,6 +5,9 @@
 [submodule "aftgee"]
 	path = aftgee
 	url = https://github.com/stc04003/aftgee
+[submodule "pseudoCure"]
+	path = pseudoCure
+	url = https://github.com/stc04003/pseudocure
 [submodule "reReg"]
 	path = reReg
 	url = https://github.com/stc04003/rereg
