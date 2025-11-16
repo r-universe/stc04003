@@ -11,9 +11,6 @@
 [submodule "reReg"]
 	path = reReg
 	url = https://github.com/stc04003/rereg
-[submodule "rocTree"]
-	path = rocTree
-	url = https://github.com/stc04003/roctree
 [submodule "spef"]
 	path = spef
 	url = https://github.com/stc04003/spef
